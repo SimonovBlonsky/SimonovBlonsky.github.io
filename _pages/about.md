@@ -18,8 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I currently work as a research assistant in State Key Lab of CAD&CG, College of Computer Science & Technology, Zhejiang University, under supervision of Zhaopeng Cui. I obtained my MS degree in civil engineering in Zhejiang University in 2024, and Bachelor degree of construction management in South China University of Technology in 2021.
-My current research centers on Robotics & Navigation, especially in Simultaneous Localization and Mapping (SLAM) Visual-Inertial Odometry (VIO) and Learning-based odometries. Also, I have involved in several projects about signal processing, point cloud machine learning and 3D gaussian splatting.
+I currently work as a research assistant in State Key Lab of CAD&CG, College of Computer Science & Technology, Zhejiang University, under supervision of Zhaopeng Cui.
+
+I obtained my MS degree in civil engineering in Zhejiang University in 2024, and Bachelor degree of construction management in South China University of Technology in 2021.
+
+My current research centers on **Robotics & Navigation**, especially in Simultaneous Localization and Mapping (**SLAM**), Visual-Inertial Odometry (**VIO**) and **Learning-based** odometries. Also, I have involved in several projects about signal processing, point cloud machine learning and 3D gaussian splatting.
 
 Publications & Projects are visible below.
 
