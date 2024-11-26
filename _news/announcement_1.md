@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+One paper accepted by Mechanical Systems and Signal Processing.
