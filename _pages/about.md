@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, College of Computer Science and Technology.
 
@@ -18,13 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I currently work as a research assistant in State Key Lab of CAD&CG, College of Computer Science & Technology, Zhejiang University, under supervision of Zhaopeng Cui.
+I currently work as a research assistant in State Key Lab of CAD [and] CG, College of Computer Science [and] Technology, Zhejiang University, under supervision of Zhaopeng Cui.
 
 I obtained my MS degree in civil engineering in Zhejiang University in 2024, and Bachelor degree of construction management in South China University of Technology in 2021.
 
-My current research centers on **Robotics & Navigation**, especially in Simultaneous Localization and Mapping (**SLAM**), Visual-Inertial Odometry (**VIO**) and **Learning-based** odometries. Also, I have involved in several projects about signal processing, point cloud machine learning and 3D gaussian splatting.
+My current research centers on **Robotics [and] Navigation**, especially in Simultaneous Localization and Mapping (**SLAM**), Visual-Inertial Odometry (**VIO**) and **Learning-based** odometries. Also, I have involved in several projects about signal processing, point cloud machine learning and 3D gaussian splatting.
 
-Publications & Projects are visible below.
+Publications [and] Projects are visible below.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
