@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>cgycadcg [at] zju.edu.cn</p>
-    <p>gavinchanofficial [at] gmail.com/p>
+    <p>+86 13652992633</p>
+    <p>cgycadcg@zju.edu.cn</p>
+    <p>gavinchanofficial@gmail.com</p>
     <p>Hangzhou, China</p>
 
 news: true # includes a list of news items
@@ -18,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I currently work as a research assistant in State Key Lab of CAD [and] CG, College of Computer Science [and] Technology, Zhejiang University, under supervision of Zhaopeng Cui.
+I currently work as a research assistant in **State Key Lab of CAD [and] CG**, College of Computer Science [and] Technology, **Zhejiang University**, under supervision of Zhaopeng Cui.
 
 I obtained my MS degree in civil engineering in Zhejiang University in 2024, and Bachelor degree of construction management in South China University of Technology in 2021.
 
