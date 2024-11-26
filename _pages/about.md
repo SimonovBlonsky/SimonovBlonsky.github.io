@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+86 13652992633</p>
     <p>cgycadcg [at] zju.edu.cn</p>
     <p>gavinchanofficial [at] gmail.com/p>
     <p>Hangzhou, China</p>
