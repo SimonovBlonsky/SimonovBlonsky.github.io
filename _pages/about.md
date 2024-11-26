@@ -6,7 +6,7 @@ subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, Col
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_selfie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+86 13652992633</p>
