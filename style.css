@@ -17,6 +17,11 @@ header {
     border-radius: 50%;
 }
 
+.purple-bold {
+    font-weight: bold;    /* 加粗 */
+    color: purple;        /* 紫色 */
+}
+
 h1 {
     margin: 10px 0;
 }
@@ -39,7 +44,7 @@ section {
 
 #publications {
     text-align: left; /* 让文本居左 */
-    max-width: 800px; /* 控制最大宽度，避免太散 */
+    max-width: 800px; /* 限制宽度，避免太散 */
     margin: 40px auto; /* 居中整个 section */
     padding: 20px;
 }
