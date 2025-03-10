@@ -35,6 +35,12 @@ section {
     margin: 40px auto; /* 居中整个 section */
     padding: 20px;
 }
+#publications {
+    text-align: left; /* 让文本居左 */
+    max-width: 800px; /* 控制最大宽度，避免太散 */
+    margin: 40px auto; /* 居中整个 section */
+    padding: 20px;
+}
 
 a {
     color: #007bff;
