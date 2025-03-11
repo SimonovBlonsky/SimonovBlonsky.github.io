@@ -58,6 +58,22 @@ section {
     margin-bottom: 10px; /* 每个列表项之间的间距 */
 }
 
+#projects {
+    text-align: left; /* 让文本居左 */
+    max-width: 800px; /* 限制宽度，避免太散 */
+    margin: 40px auto; /* 居中整个 section */
+    padding: 20px;
+}
+
+#projects ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+#projects li {
+    margin-bottom: 10px;
+}
+
 a {
     color: #007bff;
     text-decoration: none;
