@@ -18,8 +18,8 @@ header {
 }
 
 .purple-bold {
-    font-weight: bold;    /* 加粗 */
-    color: purple;        /* 紫色 */
+    font-weight: bold;
+    color: purple;
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    margin-top: 5px;  /* 增加标题上方的间距 */
+    margin-top: 5px;
 }
 
 p {
