@@ -26,6 +26,10 @@ h1 {
     margin: 10px 0;
 }
 
+p {
+    line-height: 1.6;
+}
+
 section {
     margin: 40px auto;
     max-width: 600px;
