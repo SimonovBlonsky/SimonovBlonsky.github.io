@@ -26,6 +26,10 @@ h1 {
     margin: 10px 0;
 }
 
+h2 {
+    margin-top: 10px;  /* 增加标题上方的间距 */
+}
+
 p {
     line-height: 1.6;
 }
@@ -45,9 +49,6 @@ section {
     margin: 40px auto; /* 居中整个 section */
     padding: 20px;
 }
-#about h2 {
-    margin-top: 20px;  /* 增加标题上方的间距 */
-}
 
 #publications {
     text-align: left; /* 让文本居左 */
@@ -56,9 +57,6 @@ section {
     padding: 20px;
 }
 
-#publications h2 {
-    margin-top: 20px;  /* 增加标题上方的间距 */
-}
 
 #publications ul {
     list-style-type: disc; /* 保持默认的圆点样式 */
