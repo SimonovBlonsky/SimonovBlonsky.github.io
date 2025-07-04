@@ -139,6 +139,11 @@ a:hover {
     color: #9333ea;
 }
 
+.blue-bold {
+    font-weight: bold;
+    color: #3c32cf;
+}
+
 footer {
     background-color: #1e293b;
     color: white;
