@@ -31,21 +31,43 @@ header {
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+/* 并排论文展示 */
 .pub-entry {
     display: flex;
-    align-items: flex-start;
     gap: 16px;
+    align-items: flex-start;
+    margin-bottom: 24px;
 }
 
 .paper-thumb-side {
     width: 120px;
     border-radius: 6px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    object-fit: cover;
     flex-shrink: 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
-.pub-entry div {
+.pub-text {
     flex: 1;
+    text-align: justify;
+}
+
+/* 移动端处理 */
+@media (max-width: 768px) {
+    .pub-entry {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .paper-thumb-side {
+        width: 100%;
+        max-width: 280px;
+        margin-bottom: 10px;
+    }
+
+    .pub-text {
+        text-align: left;
+    }
 }
 
 #publications li {
