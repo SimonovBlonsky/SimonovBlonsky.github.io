@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I obtained my Master's degree from Zhejiang University!
+I obtained my Master's degree from Zhejiang University! 🎓️

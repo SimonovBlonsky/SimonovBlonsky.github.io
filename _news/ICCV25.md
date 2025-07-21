@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper AccidentalGS accepted to ICCV 2025.
+Our paper **AccidentalGS** accepted to **ICCV 2025**. 🎉

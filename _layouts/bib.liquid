@@ -81,7 +81,7 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <b style="color: #6800b3">
+          <b style="color: #ab02ff">
             {{- author.first }}
             {{ author.last -}}
           </b>
@@ -115,7 +115,7 @@
           {% endif %}
           {% if author_is_self %}
             {% assign more_authors_show = more_authors_show
-              | append: '<b style="color: #7100b3">'
+              | append: '<b style="color: #a201ff">'
               | append: author.first
               | append: ' '
               | append: author.last
