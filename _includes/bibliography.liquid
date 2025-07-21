@@ -37,6 +37,9 @@
           {% if entry.code %}
             | <a href="{{ entry.code }}" style="color: #2196f3;">code</a>
           {%- endif %}
+          {% if entry.doi %}
+            | <a href="{{ entry.doi }}" style="color: #2196f3;">doi</a>
+          {%- endif %}
           {% if entry.bibtex_show or entry.bibtex %}
             | <a href="#" style="color: #2196f3;">bibtex</a>
           {%- endif %}

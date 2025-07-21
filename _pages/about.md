@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 # subtitle: <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, College of Computer Science and Technology.
 
