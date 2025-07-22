@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **DW-VIO** accepted to **IROS 2025**. 🚀
+Our paper **DW-VIO** accepted to *IROS 2025*. 🚀
